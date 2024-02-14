@@ -1,0 +1,55 @@
+title: arkts.dev - 鸿蒙开发工具
+keywords: arkts,arkts开发
+description: arkts开发
+nav:
+  - title: TypeScript
+    children:
+      - title: 基础语法
+        url: /ts
+      - title: 在线运行
+        url: https://www.typescriptlang.org/play
+
+  - title: ArkTS
+    url: https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V2/arkts-basics-0000001454809260-V2
+
+  - title: 鸿蒙开发
+    children:
+      - title: DevEco-Studio
+        url: /ide
+      - title: 开发指南
+        url: https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V2/2_1_u5e94_u7528_u6a21_u578b_u6982_u8ff0-0000001477980925-V2
+      - title: API
+        url: https://developer.huawei.com/consumer/cn/doc/harmonyos-references-V2/syscap-0000001408089368-V2?catalogVersion=V2
+      - title: Demo
+        url: https://developer.huawei.com/consumer/cn/hmos/samples/?catalogVersion=V2
+
+  - title: 教程
+    url: /tutorials
+
+  - title: 开发工具
+    children:
+      - title: 在线Base64
+        url: https://base64.us/
+      - title: 在线md5
+        url: https://cmd5.com/
+      - title: URLEncode
+        url: https://www.bejson.com/enc/urlencode/
+      - title: Json格式化
+        url: https://www.bejson.com/json/format/
+  
+  - title: 关于
+    url: /about
+
+ide:
+  - platform: Windows(64-bit)	
+    size: 843.6M
+    checksum: fbe79d92017d642ee91b2471b36c3e22ff3c186a0df36f3ae683129cfd445d9c
+    url: https://contentcenter-vali-drcn.dbankcdn.cn/pvt_2/DeveloperAlliance_package_901_9/81/v3/tgRUB84wR72nTfE8Ir_xMw/devecostudio-windows-3.1.0.501.zip?HW-CC-KV=V1&HW-CC-Date=20230621T074329Z&HW-CC-Expire=315360000&HW-CC-Sign=22F6787DF6093ECB4D4E08F9379B114280E1F65DA710599E48EA38CB24F3DBF2
+  - platform: Mac(X86)
+    size: 942.9M
+    checksum: 1a380b8b4a172b0f00af476b3bdcd83ee2dab24937c00b72d20d9121db99f5b7
+    url: https://contentcenter-vali-drcn.dbankcdn.cn/pvt_2/DeveloperAlliance_package_901_9/a3/v3/8W9LiYb8RkqhmvclsZlaTA/devecostudio-mac-3.1.0.501.zip?HW-CC-KV=V1&HW-CC-Date=20230621T074204Z&HW-CC-Expire=315360000&HW-CC-Sign=C41DAC65883B9E09594C31B333704D2ABA325E000648BED86496288182E4A565
+  - platform: Mac(ARM)
+    size: 934.8M
+    checksum: f3e77ba60e596c9e49cd5fc3ab67f3f944efd235f2fa7b298b501abcfc668f04
+    url: https://contentcenter-vali-drcn.dbankcdn.cn/pvt_2/DeveloperAlliance_package_901_9/b7/v3/ONY_R_ihQ6-6k8Fnu8Kl2Q/devecostudio-mac-arm-3.1.0.501.zip?HW-CC-KV=V1&HW-CC-Date=20230621T074841Z&HW-CC-Expire=315360000&HW-CC-Sign=FE223D9B6AB5C722096FF8C7BA574555E63638374A3D3543C72D7D9E869AB934
