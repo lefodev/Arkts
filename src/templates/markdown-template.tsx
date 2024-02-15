@@ -2,7 +2,6 @@ import React from "react";
 import ContentLayout from '../components/contentlayout';
 
 const MDTemplate = ({ pageContext }) => {
-  console.log(pageContext)
   const { frontmatter, html } = pageContext.node;
 
   const content = (
