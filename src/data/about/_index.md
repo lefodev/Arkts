@@ -11,4 +11,5 @@ title: "关于"
 - 有好东西不定时更新
 
 ## 作者
-[www.lefo.me](https://www.lefo.me)
+北漂小青年
+<!-- [www.lefo.me](https://www.lefo.me) -->
