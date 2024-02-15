@@ -16,7 +16,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@mdx-js/react": "^3.0.0",
+    "@mdx-js/react": "^2.0.0",
     "antd": "^5.14.0",
     "caniuse-lite": "^1.0.30001587",
     "gatsby": "^5.13.2",
