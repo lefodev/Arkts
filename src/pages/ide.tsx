@@ -34,7 +34,7 @@ export default function IdePage() {
             title: 'Platform',
             dataIndex: 'platform',
             key: 'platform',
-            render: (text) => text.toLowerCase().indexOf('mac') !== -1 ? <Space><AppleFilled/>text</Space> : <Space><WindowsFilled/>text</Space>,
+            render: (text) => text.toLowerCase().indexOf('mac') !== -1 ? <Space><AppleFilled/>{text}</Space> : <Space><WindowsFilled/>{text}</Space>,
         },
         {
             title: 'DevEco Studio Package',
