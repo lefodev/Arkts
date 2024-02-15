@@ -18,7 +18,7 @@ const ContentLayout = ({ content }: { content: any }) => {
       </head>
     <body>
     <Layout>
-      <HeaderLayout/>
+      <HeaderLayout key={'header'}/>
       <Content style={{ padding: '0 48px' }}>
         <Breadcrumb style={{ margin: '16px 0' }}>
         </Breadcrumb>
