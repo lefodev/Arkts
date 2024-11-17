@@ -11,5 +11,5 @@ title: "关于"
 - 有好东西不定时更新
 
 ## 作者
-北漂小青年
-<!-- [www.lefo.me](https://www.lefo.me) -->
+lefo 其实我不会鸿蒙，域名我看没注册，就注册了一个，随便搞了个网站，感谢大家。安卓才是我的正活
+ [www.lefo.me](https://www.lefo.me)
